@@ -1,14 +1,14 @@
 {
-  "name": "examples",
+  "name": "template",
   "version": "1.0.0",
   "description": "Example for Spexora",
-  "homepage": "https://github.com/Spexora/examples#readme",
+  "homepage": "https://github.com/Spexora/template#readme",
   "bugs": {
-    "url": "https://github.com/Spexora/examples/issues"
+    "url": "https://github.com/Spexora/template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Spexora/examples.git"
+    "url": "git+https://github.com/Spexora/template.git"
   },
   "license": "MIT",
   "author": "Hattorius (Aaron Jonk)",

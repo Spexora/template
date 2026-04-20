@@ -12,13 +12,15 @@
   },
   "license": "MIT",
   "author": "Hattorius (Aaron Jonk)",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cucumber-js",
+    "prettier": "prettier --write --ignore-unknown ."
   },
   "devDependencies": {
     "@cucumber/cucumber": "^12.8.1",
+    "@types/node": "^25.6.0",
+    "prettier": "3.8.3",
     "tsx": "^4.21.0",
     "typescript": "^6.0.3"
   }

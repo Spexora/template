@@ -1,0 +1,25 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "Example for Spexora",
+  "homepage": "https://github.com/Spexora/examples#readme",
+  "bugs": {
+    "url": "https://github.com/Spexora/examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spexora/examples.git"
+  },
+  "license": "MIT",
+  "author": "Hattorius (Aaron Jonk)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.8.1",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
